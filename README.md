@@ -3,6 +3,8 @@
 
 A game I created in Phaser some years ago.
 
+#### [Play](https://bitwisecreative.com/github/world-defender/)
+
 ----
 
 
